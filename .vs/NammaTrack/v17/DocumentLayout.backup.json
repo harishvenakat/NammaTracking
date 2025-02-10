@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Namma Track\\NammaTrack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00474EA-F72A-4B6D-8749-857588E59297}|NammaTrack.Infrastructure\\NammaTrack.Infrastructure.csproj|d:\\namma track\\nammatrack\\nammatrack.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00474EA-F72A-4B6D-8749-857588E59297}|NammaTrack.Infrastructure\\NammaTrack.Infrastructure.csproj|solutionrelative:nammatrack.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF78CB4-6787-49D1-A05E-CBB98CD72F1E}|NammaTrack.Domain\\NammaTrack.Domain.csproj|d:\\namma track\\nammatrack\\nammatrack.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF78CB4-6787-49D1-A05E-CBB98CD72F1E}|NammaTrack.Domain\\NammaTrack.Domain.csproj|solutionrelative:nammatrack.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B47C7F-5032-44BC-A5E4-61B25D8031A0}|NammaTrack.API\\NammaTrack.API.csproj|d:\\namma track\\nammatrack\\nammatrack.api\\nammatrack.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9B47C7F-5032-44BC-A5E4-61B25D8031A0}|NammaTrack.API\\NammaTrack.API.csproj|solutionrelative:nammatrack.api\\nammatrack.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567FDE21-A1A2-4F34-BAA1-A933760EB1F6}|NammaTrack.Application\\NammaTrack.Application.csproj|d:\\namma track\\nammatrack\\nammatrack.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567FDE21-A1A2-4F34-BAA1-A933760EB1F6}|NammaTrack.Application\\NammaTrack.Application.csproj|solutionrelative:nammatrack.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NammaTrack.API",
+              "DocumentMoniker": "D:\\Namma Track\\NammaTrack\\NammaTrack.API\\NammaTrack.API.csproj",
+              "RelativeDocumentMoniker": "NammaTrack.API\\NammaTrack.API.csproj",
+              "ToolTip": "D:\\Namma Track\\NammaTrack\\NammaTrack.API\\NammaTrack.API.csproj",
+              "RelativeToolTip": "NammaTrack.API\\NammaTrack.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T06:10:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:630456984:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Namma Track\\NammaTrack\\NammaTrack.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "NammaTrack.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Namma Track\\NammaTrack\\NammaTrack.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "NammaTrack.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:10:54.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Namma Track\\NammaTrack\\NammaTrack.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "NammaTrack.Domain\\Class1.cs",
+              "ToolTip": "D:\\Namma Track\\NammaTrack\\NammaTrack.Domain\\Class1.cs",
+              "RelativeToolTip": "NammaTrack.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:10:28.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Namma Track\\NammaTrack\\NammaTrack.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "NammaTrack.Application\\Class1.cs",
+              "ToolTip": "D:\\Namma Track\\NammaTrack\\NammaTrack.Application\\Class1.cs",
+              "RelativeToolTip": "NammaTrack.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:09:57.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

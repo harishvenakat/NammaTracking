@@ -1,0 +1,11 @@
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\bin\Debug\net8.0\NammaTrack.Infrastructure.deps.json
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\bin\Debug\net8.0\NammaTrack.Infrastructure.dll
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\bin\Debug\net8.0\NammaTrack.Infrastructure.pdb
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\obj\Debug\net8.0\NammaTrack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\obj\Debug\net8.0\NammaTrack.Infrastructure.AssemblyInfoInputs.cache
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\obj\Debug\net8.0\NammaTrack.Infrastructure.AssemblyInfo.cs
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\obj\Debug\net8.0\NammaTrack.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\obj\Debug\net8.0\NammaTrack.Infrastructure.dll
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\obj\Debug\net8.0\refint\NammaTrack.Infrastructure.dll
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\obj\Debug\net8.0\NammaTrack.Infrastructure.pdb
+D:\Namma Track\NammaTrack\NammaTrack.Infrastructure\obj\Debug\net8.0\ref\NammaTrack.Infrastructure.dll

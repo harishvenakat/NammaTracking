@@ -1,0 +1,11 @@
+D:\Namma Track\NammaTrack\NammaTrack.Application\bin\Debug\net8.0\NammaTrack.Application.deps.json
+D:\Namma Track\NammaTrack\NammaTrack.Application\bin\Debug\net8.0\NammaTrack.Application.dll
+D:\Namma Track\NammaTrack\NammaTrack.Application\bin\Debug\net8.0\NammaTrack.Application.pdb
+D:\Namma Track\NammaTrack\NammaTrack.Application\obj\Debug\net8.0\NammaTrack.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Namma Track\NammaTrack\NammaTrack.Application\obj\Debug\net8.0\NammaTrack.Application.AssemblyInfoInputs.cache
+D:\Namma Track\NammaTrack\NammaTrack.Application\obj\Debug\net8.0\NammaTrack.Application.AssemblyInfo.cs
+D:\Namma Track\NammaTrack\NammaTrack.Application\obj\Debug\net8.0\NammaTrack.Application.csproj.CoreCompileInputs.cache
+D:\Namma Track\NammaTrack\NammaTrack.Application\obj\Debug\net8.0\NammaTrack.Application.dll
+D:\Namma Track\NammaTrack\NammaTrack.Application\obj\Debug\net8.0\refint\NammaTrack.Application.dll
+D:\Namma Track\NammaTrack\NammaTrack.Application\obj\Debug\net8.0\NammaTrack.Application.pdb
+D:\Namma Track\NammaTrack\NammaTrack.Application\obj\Debug\net8.0\ref\NammaTrack.Application.dll
